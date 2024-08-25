@@ -1,2 +1,2 @@
 # Flavour-Recommender
-Simple implementation using DecisionTreeClassifier with flavour dataset
+Simple implementation using ```sklearn.DecisionTreeClassifier``` with self-created flavour dataset.
